@@ -1,5 +1,5 @@
-# DeerConverter
-DeerConverter is a tool to switch between several CNN data types.
+# beaconverter
+beaconverter is a tool to switch between several CNN data types.
 
 At the moment, it includes:
 - [YOLO](https://github.com/AlexeyAB/Yolo_mark/issues/60) (You Only Look Once)
