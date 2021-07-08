@@ -8,7 +8,8 @@ At the moment, it includes:
 - [TFRecord](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/using_your_own_dataset.md) (TensorFlow Record)
 
 ## Internal structure:
-![code_structure](https://user-images.githubusercontent.com/72256967/124934307-e0be7000-e004-11eb-9273-1510730a176f.jpg)
+![code_structure](https://user-images.githubusercontent.com/72256967/124937971-292b5d00-e008-11eb-9d67-909705415115.jpg)
+
 
 ## Requirements
 ```
