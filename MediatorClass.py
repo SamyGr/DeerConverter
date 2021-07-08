@@ -4,8 +4,6 @@ import os
 from datetime import datetime
 now = datetime.now()
 
-# TODO: handle sub bboxs of pascalvoc
-
 class Mediator:
     def __init__(self, *args, **kwargs):
         # MediatorImages variable
