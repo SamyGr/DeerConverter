@@ -38,4 +38,5 @@ writer.write(mediator=mediator, outputAnnotDir='./data/yolo_data/pascalvoc_annot
 If you want to convert a dataset from **COCO to TFRecord**, it's strongly recommended to set enableDownload to True (in TfrecordsWriter.write).
 COCO dataset is the only datas type that does not include raw images or filepaths in its structure. Therefore we have to download images from coco/flickr URL, specified in COCO annotations, to build TFRecords file.
 
-
+## TO-DO:
+- Handle sub-bboxs for PascalVOC reading and for all writing
