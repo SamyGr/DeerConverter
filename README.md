@@ -2,10 +2,10 @@
 beaconverter is a tool to switch between several CNN data types.
 
 At the moment, it includes:
-- [YOLO](https://github.com/AlexeyAB/Yolo_mark/issues/60) (You Only Look Once)
-- [PascalVOC](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5) (Pascal Visual Object Classes)
-- [COCO](https://towardsdatascience.com/coco-data-format-for-object-detection-a4c5eaf518c5) (COmmun Object in Context)
-- [TFRecord](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/using_your_own_dataset.md) (TensorFlow Record)
+- [YOLO](https://pjreddie.com/darknet/yolo/) (You Only Look Once)
+- [PascalVOC](http://host.robots.ox.ac.uk/pascal/VOC/) (Pascal Visual Object Classes)
+- [COCO](https://cocodataset.org/) (COmmun Object in Context)
+- [TFRecord](https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset) (TensorFlow Record)
 
 ## Internal structure:
 ![code_structure](https://user-images.githubusercontent.com/72256967/124937971-292b5d00-e008-11eb-9d67-909705415115.jpg)
